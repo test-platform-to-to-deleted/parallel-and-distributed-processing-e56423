@@ -1,0 +1,13 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Parallel and distributed processing
+** [[./introduction-e56423/introduction-e56423.org][Introduction]]
+** [[./objective-e56423/objective-e56423.org][Objective]]
+** [[./tutorial-e56423/tutorial-e56423.org][Tutorial]]
+** [[./illustration-e56423/illustration-e56423.org][Illustration]]
+** [[./procedure-e56423/procedure-e56423.org][Procedure]]
+** [[./experiment-e56423/experiment-e56423.org][Experiment]]
+** [[./observations-e56423/observations-e56423.org][Observations]]
+** [[./assignment-e56423/assignment-e56423.org][Assignment]]
+** [[./references-e56423/references-e56423.org][References]]
